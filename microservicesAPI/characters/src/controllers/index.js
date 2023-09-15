@@ -1,3 +1,3 @@
 module.exports = {
-    getCharacters: require('./getCharacters')
-}
+    getCharacters: require('./getCharacters'),
+};

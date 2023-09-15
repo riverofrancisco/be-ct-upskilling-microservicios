@@ -6,4 +6,4 @@ const router = Router();
 router.get("/", controllers.getCharacters)
 
 
-module.exports = router  
+module.exports = router;
